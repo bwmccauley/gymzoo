@@ -6,7 +6,7 @@ const SearchExercises = () => {
 
     const handleSearch = async () => {
         if(Search) {
-            /* const exerciseData = await fetchData(); */
+            const exerciseData = await fetchData(); 
         }
     }
 
